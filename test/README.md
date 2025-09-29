@@ -1,0 +1,1 @@
+The structure of Tests should match the structure of the project_name package.

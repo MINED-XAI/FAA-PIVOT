@@ -1,0 +1,11 @@
+lib/MINED-Utils
+lib/MINED-THD
+lib/MINED-Statistics
+connectorx
+xlsx2csv
+XlsxWriter
+python-dotenv
+hydra-core
+omegaconf
+seaborn
+polars~=0.20
